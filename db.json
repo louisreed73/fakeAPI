@@ -98,6 +98,24 @@
             "tipo_procedimiento":1,
             "magistrado":"magistrado 1",
             "tipo":"resolucion"
-        }
+        },
+        {
+            "id":11,
+            "descripcion":"descripcion 11",
+            "tipo_documental":2,
+            "fase_procesal":2,
+            "tipo_procedimiento":1,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":12,
+            "descripcion":"descripcion 12",
+            "tipo_documental":0,
+            "fase_procesal":2,
+            "tipo_procedimiento":1,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
     ]
 }
