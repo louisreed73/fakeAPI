@@ -1,16 +1,5 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello2"
-    },
-   {
-      "id": 3,
-      "title": "hello3"
-    }
+    1,2,3
   ]
 }
