@@ -1,8 +1,49 @@
 {
-  "value": [
-    {
-"producto":"este1",
-"precio":1200
-}
-]
+    "documentos":[
+        {
+            "id":0,
+            "descripcion":"descripcion 0",
+            "tipo_documental":0,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
+        {
+            "id":1,
+            "descripcion":"descripcion 1",
+            "tipo_documental":1,
+            "fase_procesal":2,
+            "tipo_procedimiento":1,
+            "magistrado":"magistrado 2",
+            "tipo":"escrito"
+        },
+        {
+            "id":2,
+            "descripcion":"descripcion 2",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
+        {
+            "id":3,
+            "descripcion":"descripcion 3",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"escrito"
+        },
+        {
+            "id":4,
+            "descripcion":"descripcion 4",
+            "tipo_documental":0,
+            "fase_procesal":2,
+            "tipo_procedimiento":1,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        }
+    ]
 }
