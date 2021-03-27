@@ -116,6 +116,15 @@
             "tipo_procedimiento":1,
             "magistrado":"magistrado 1",
             "tipo":"resolucion"
+        },
+        {
+            "id":13,
+            "descripcion":"descripcion 13",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"escrito"
         }
     ]
 }
