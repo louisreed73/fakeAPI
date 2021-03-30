@@ -11,7 +11,7 @@
         },
         {
             "id":1,
-            "descripcion":"descripcion 1",
+            "descripcion":"digital",
             "tipo_documental":1,
             "fase_procesal":2,
             "tipo_procedimiento":1,
@@ -29,7 +29,7 @@
         },
         {
             "id":3,
-            "descripcion":"descripcion 3",
+            "descripcion":"madrid",
             "tipo_documental":2,
             "fase_procesal":1,
             "tipo_procedimiento":0,
@@ -47,7 +47,7 @@
         },
         {
             "id":5,
-            "descripcion":"descripcion 5",
+            "descripcion":"madrid",
             "tipo_documental":2,
             "fase_procesal":1,
             "tipo_procedimiento":0,
@@ -74,7 +74,7 @@
         },
         {
             "id":8,
-            "descripcion":"descripcion 8",
+            "descripcion":"madrid",
             "tipo_documental":2,
             "fase_procesal":1,
             "tipo_procedimiento":0,
@@ -101,7 +101,7 @@
         },
         {
             "id":11,
-            "descripcion":"descripcion 11",
+            "descripcion":"digital",
             "tipo_documental":2,
             "fase_procesal":2,
             "tipo_procedimiento":1,
@@ -119,7 +119,7 @@
         },
         {
             "id":13,
-            "descripcion":"descripcion 13",
+            "descripcion":"digital",
             "tipo_documental":2,
             "fase_procesal":1,
             "tipo_procedimiento":0,
