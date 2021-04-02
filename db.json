@@ -143,6 +143,60 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 3",
             "tipo":"escrito"
+        },
+        {
+            "id":16,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"escrito"
+        },
+        {
+            "id":17,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"escrito"
+        },
+        {
+            "id":18,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"escrito"
+        },
+        {
+            "id":19,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":20,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":21,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
         }
     ]
 }
