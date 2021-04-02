@@ -197,6 +197,24 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
             "tipo":"resolucion"
+        },
+        {
+            "id":22,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"escrito"
+        },
+        {
+            "id":23,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
         }
     ]
 }
