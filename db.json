@@ -260,6 +260,78 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
             "tipo":"escrito"
+        },
+        {
+            "id":28,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":29,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"escrito"
+        },
+        {
+            "id":30,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
+        {
+            "id":31,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"escrito"
+        },
+        {
+            "id":32,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":33,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"escrito"
+        },
+        {
+            "id":34,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"resolucion"
+        },
+        {
+            "id":35,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"escrito"
         }
     ]
 }
