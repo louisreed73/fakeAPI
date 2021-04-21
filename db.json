@@ -179,8 +179,97 @@
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
             "tipo":"resolucion"
+        },
+        {
+            "id":20,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":21,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
+        {
+            "id":22,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"escrito"
+        },
+        {
+            "id":23,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"resolucion"
+        },
+        {
+            "id":24,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"escrito"
+        },
+        {
+            "id":25,
+            "descripcion":"digital",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"resolucion"
+        },
+        {
+            "id":26,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
+        },
+        {
+            "id":27,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 3",
+            "tipo":"resolucion"
+        },
+        {
+            "id":28,
+            "descripcion":"madrid",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 1",
+            "tipo":"escrito"
+        },
+        {
+            "id":29,
+            "descripcion":"internet",
+            "tipo_documental":2,
+            "fase_procesal":1,
+            "tipo_procedimiento":0,
+            "magistrado":"magistrado 2",
+            "tipo":"resolucion"
         }
-        
     ]
 
 }
