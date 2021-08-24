@@ -37,7 +37,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
-            "tipo":"escrito"
+            "tipo":"escrito",
+            "suppliers_id": [0,4]
         },
         {
             "id":4,
@@ -46,7 +47,8 @@
             "fase_procesal":2,
             "tipo_procedimiento":1,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [1,4]
         },
         {
             "id":5,
@@ -55,7 +57,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [3,4]
         },
         {
             "id":6,
@@ -64,7 +67,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
-            "tipo":"escrito"
+            "tipo":"escrito",
+            "suppliers_id": [2,4]
         },
         {
             "id":7,
@@ -73,7 +77,8 @@
             "fase_procesal":2,
             "tipo_procedimiento":1,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [2,3]
         },
         {
             "id":8,
@@ -82,7 +87,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [0,1]
         },
         {
             "id":9,
@@ -91,7 +97,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 2",
-            "tipo":"escrito"
+            "tipo":"escrito",
+            "suppliers_id": [2,3]
         }
     ],
     "escritos":[
