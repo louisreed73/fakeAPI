@@ -263,6 +263,16 @@
     "id":2,
     "quantity":45,
     "store_direction":"Ercilla 12"
+    },
+    {
+    "id":3,
+    "quantity":62,
+    "store_direction":"La del soto del parral 5"
+    },
+    {
+    "id":4,
+    "quantity":3,
+    "store_direction":"Juan de Villanueva 34"
     }
 ]
 
