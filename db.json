@@ -7,7 +7,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [0,1]
         },
         {
             "id":1,
@@ -16,7 +17,8 @@
             "fase_procesal":2,
             "tipo_procedimiento":1,
             "magistrado":"magistrado 2",
-            "tipo":"escrito"
+            "tipo":"escrito",
+            "suppliers_id": [0,2]
         },
         {
             "id":2,
@@ -25,7 +27,8 @@
             "fase_procesal":1,
             "tipo_procedimiento":0,
             "magistrado":"magistrado 1",
-            "tipo":"resolucion"
+            "tipo":"resolucion",
+            "suppliers_id": [1,2]
         },
         {
             "id":3,
